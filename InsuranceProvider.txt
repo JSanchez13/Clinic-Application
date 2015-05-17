@@ -1,0 +1,11 @@
+Aetna 1500
+IHC-Group 1000
+Humana 1100
+Assurant-Health 1050
+Kaiser-Permanent 1025
+UnitedHealthOne 1010
+Ambetter 1250
+Cigna 1350
+Coventry 1450
+Molina Health Care 1110
+               

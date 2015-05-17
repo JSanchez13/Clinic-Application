@@ -1,0 +1,12 @@
+Breast-Cancer 600
+Chlamydia-Tests 500
+Cholesterol-Triglycerides 300
+Growth-Hormone 525
+Hepatitis 235.20
+Pregnancy-Test 250
+Thyroid-Hormone 350
+Urine-Test 125
+Viral-Tests 130
+Vitamin-B12 115.30
+Allergy-Tests 145.25
+Blood-Test 98.60
